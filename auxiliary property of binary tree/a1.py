@@ -41,6 +41,6 @@ root.right_child.right_child.right_child = Node(7)
 
 size_recursive = find_size_recursive(root)
 print(f"the size of the binary tree <R> is: {size_recursive}")
-
+#yes
 size_iterative = find_size_iterative(root)
 print(f"\nthe size of the binary tree <I> is: {size_iterative}")
